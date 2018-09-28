@@ -74,17 +74,21 @@ a
                             <a class="navbar-link">
                             Mov. Fretes
                             </a>
+                                
                             <div class="navbar-dropdown">
                             <a class="navbar-item">
-                           Abertura de Viagens
-                            </a>
-                                 <hr class="navbar-divider">
+                            <a href="fretes">
+                            Abertura de Viagens
+                            </a><hr class="navbar-divider">
+                            
                             <a class="navbar-item">
-                           Fechamento de Viagens 
-                            </a>
-                                <hr class="navbar-divider">
+                            <a href="fretes">
+                            Fechamento de Viagens 
+                            </a><hr class="navbar-divider">
+                                
                             <a class="navbar-item">
-                           Relatorio de Fretes
+                            <a href="fretes">
+                            Relatorio de Fretes
                             </a>
                             </div>
                             </div>
@@ -93,75 +97,90 @@ a
                                                             <a class="navbar-link">
                                                             Frota
                                                             </a>
+                                                                
                                                             <div class="navbar-dropdown">
                                                             <a class="navbar-item">
-                                                           Dig. Mov Frota
-                                                            </a>
-                                                                 <hr class="navbar-divider">
+                                                            <a href="frota">
+                                                            Dig. Mov Frota
+                                                            </a><hr class="navbar-divider">
+                                                            
                                                             <a class="navbar-item">
-                                                           Controle de Pneus
-                                                            </a>
-                                                                <hr class="navbar-divider">
+                                                            <a href="frota">
+                                                            Controle de Pneus
+                                                            </a><hr class="navbar-divider">
+                                                                
                                                             <a class="navbar-item">
-                                                           Controle de Abastecimento
-                                                            </a>
-                                                                <hr class="navbar-divider">
+                                                            <a href="frota">
+                                                            Controle de Abastecimento
+                                                            </a><hr class="navbar-divider">
+                                                                
                                                             <a class="navbar-item">
-                                                           Controle de Check-List
-                                                            </a>
-                                                                <hr class="navbar-divider">
+                                                            <a href="frota">
+                                                            Controle de Check-List
+                                                            </a><hr class="navbar-divider">
+                                                                
                                                             <a class="navbar-item">
-                                                           Controle de Multas
-                                                            </a>
-                                                                <hr class="navbar-divider">
+                                                            <a href="frota">
+                                                            Controle de Multas
+                                                            </a><hr class="navbar-divider">
+                                                            
                                                             <a class="navbar-item">
-                                                           Relatorios Mvto Frota
+                                                            <a href="frota">
+                                                            Relatorios Mvto Frota
                                                             </a>
                                                             </div>
                                                             </div>
 
-                                                                                        <div class="navbar-item has-dropdown is-hoverable">
-                                                                                        <a class="navbar-link">
-                                                                                        Utilitarios
-                                                                                        </a>
-                                                                                        <div class="navbar-dropdown">
-                                                                                        <a class="navbar-item">
-                                                                                            Imp. XML CTe
-                                                                                        </a>
-                                                                                             <hr class="navbar-divider">
-                                                                                        <a class="navbar-item">
-                                                                                            Geração de XML / EDI para CTe
-                                                                                        </a>
-                                                                                            <hr class="navbar-divider">
-                                                                                        <a class="navbar-item">
-                                                                                             Geração de Arquivos EDI
-                                                                                        </a>                                                                                            
-                                                                                            </div>
-                                                                                            </div>
-                                                                                                                <div class="navbar-item has-dropdown is-hoverable">
-                                                                                                                <a class="navbar-link">
-                                                                                                                Configurações
-                                                                                                                </a>
-                                                                                                                <div class="navbar-dropdown">
-                                                                                                                <a class="navbar-item">
-                                                                                                                    Controle de Acesso
-                                                                                                                </a>
-                                                                                                                     <hr class="navbar-divider">
-                                                                                                                <a class="navbar-item">
-                                                                                                                    Trocar usuario
-                                                                                                                </a>                                                                                                                   
-                                                                                                                    </div>
-                                                                                                                    </div>
-                                                                                                                            <div class="navbar-item has-dropdown is-hoverable">
-                                                                                                                            <a class="navbar-link">
-                                                                                                                            Sobre
-                                                                                                                            </a>
-                                                                                                                            <div class="navbar-dropdown">
-                                                                                                                            <a class="navbar-item">
-                                                                                                                                Informações do Sistema
-                                                                                                                            </a>                                                                                                                            
-                                                                                                                                </div>
-                                                                                                                                </div>
+                                                                    <div class="navbar-item has-dropdown is-hoverable">
+                                                                    <a class="navbar-link">
+                                                                    Utilitarios
+                                                                    </a>
+
+                                                                    <div class="navbar-dropdown">
+                                                                    <a class="navbar-item">
+                                                                    <a href="utilitarios">
+                                                                    Imp. XML CTe</a><hr class="navbar-divider">
+                                                                    
+                                                                    <a class="navbar-item">
+                                                                    <a href="utilitarios">
+                                                                    Geração de XML / EDI para CTe
+                                                                    </a><hr class="navbar-divider">
+                                                                        
+                                                                    <a class="navbar-item">
+                                                                    <a href="utilitarios">
+                                                                    Geração de Arquivos EDI
+                                                                    </a>                                                                                            
+                                                                    </div>
+                                                                    </div>
+                                                                        
+                                                                            <div class="navbar-item has-dropdown is-hoverable">
+                                                                            <a class="navbar-link">
+                                                                            Configurações
+                                                                            </a>
+                                                                            <div class="navbar-dropdown">
+                                                                            <a class="navbar-item">
+                                                                            <a href="configuracoes">
+                                                                            Controle de Acesso
+                                                                            </a><hr class="navbar-divider">
+
+                                                                            <a class="navbar-item">
+                                                                            <a href="configuracoes">
+                                                                            Trocar usuario
+                                                                            </a>                                                                                                            
+                                                                            </div>
+                                                                            </div>
+
+<div class="navbar-item has-dropdown is-hoverable">
+<a class="navbar-link">
+Sobre
+</a>
+<div class="navbar-dropdown">
+<a class="navbar-item">
+<a href="sobre"></a>
+Informações do Sistema
+</a>                                                                                                                            
+</div>
+</div>
 
 </nav>
 
